@@ -7,3 +7,7 @@
 - CPUのとき
 
 - GPUのとき
+
+## リポジトリ提出用フォーム
+
+https://forms.gle/3ZBVdx2WPrG3d1ek7
